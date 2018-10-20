@@ -1,0 +1,23 @@
+{
+  "name": "evacserver",
+  "version": "1.0.0",
+  "description": "Node.js express backend for #endviolenceagainstchildren challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nd-squadra/evacserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nd-squadra/evacserver/issues"
+  },
+  "homepage": "https://github.com/nd-squadra/evacserver#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
